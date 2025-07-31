@@ -1,5 +1,3 @@
-﻿# Fabricio Matos Silva
-
 <h3 align="center">Hello, I'm Fabricio</h3>
 
 <h4 align="center">
@@ -10,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&username=FabricioMatosSIlva" height="180" alt="stats graph" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&custom_title=Languages&username=FabricioMatosSIlva" height="180" alt="languages graph" />
-
-  <img src="https://streak-stats.demolab.com?user=FabricioMatosSIlva&theme=midnight-purple" height="180" alt="stats streak graph"/>
 </div>
 
 <h3 align="center">Languages & Tools</h3>
@@ -41,14 +37,3 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
-
-</div>
-<div align="center">
-  <h3 align="center">Contact me</h3>
-    <a href="www.linkedin.com/in/fabrício-matos-silva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
-
