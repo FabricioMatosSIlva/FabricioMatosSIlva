@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Fabricio </h1>
 
-<h3 align="center">Data Engineer | Python • SQL • ETL • Cloud • Automation</h3>
+<h3 align="center">Data Engineer | Python | ETL/ELT | Pipelines | SQL | AWS | Docker | Kafka </h3>
 
 <p align="center">
   Passionate about designing data pipelines, optimizing processes and building scalable solutions.  
@@ -66,3 +66,4 @@
 ---
 
 <h4 align="center">Always learning. Always building. </h4>
+
