@@ -34,13 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabricioMatosSIlva&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=FabricioMatosSIlva&layout=compact&theme=midnight-purple&hide_border=true"/>
-</div>
-
----
 
 ##  Highlighted Skills
 
@@ -66,5 +59,6 @@
 ---
 
 <h4 align="center">Always learning. Always building. </h4>
+
 
 
