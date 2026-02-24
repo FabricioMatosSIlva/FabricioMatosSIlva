@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Fabricio</h1>
 
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Analytics | ETL | Cloud</h3>
+<h3 align="center">Data Engineer | Python | SQL | Power BI | Analytics | ETL | Cloud</h3>
 
 <p align="center">
   Passionate about transforming data into insights that support decision-making.  
@@ -60,3 +60,4 @@
 ---
 
 <h4 align="center">Always learning. Always analyzing.</h4>
+
